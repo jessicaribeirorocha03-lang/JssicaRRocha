@@ -14,6 +14,6 @@
 Desenvolver projetos que integrem educação e tecnologia, com foco em análise de dados educacionais e soluções EdTech.
 
 ### 📫 Onde me encontrar
-- LinkedIn: 
+- LinkedIn: (www.linkedin.com/in/jessica-ribeirorocha-11551515a)
 
 📍 São Paulo, Brasil
