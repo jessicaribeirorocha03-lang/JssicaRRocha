@@ -1,4 +1,5 @@
-## 👋 Olá, eu sou a Jéssica
+## 👋 Olá, eu sou a Jéssica Ribeiro Rocha
+
 
 🎓 Pedagoga  
 📊 Estudante de Ciência de Dados – UNIVESP  
@@ -15,3 +16,4 @@ Desenvolver projetos que integrem educação e tecnologia, com foco em análise 
 ### 📫 Onde me encontrar
 - LinkedIn: 
 
+📍 São Paulo, Brasil
